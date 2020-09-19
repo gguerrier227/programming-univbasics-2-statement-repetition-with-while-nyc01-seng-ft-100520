@@ -1,5 +1,5 @@
 # Write your code here
 
-while true do
+while nil do
   puts "say this forever..."
 end

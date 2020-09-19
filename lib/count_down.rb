@@ -1,6 +1,5 @@
 # Write your code here
 
-count_down = 
 count = 10
 
 while count >= 1 do
